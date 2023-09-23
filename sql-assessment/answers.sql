@@ -1,6 +1,6 @@
 -- PMG Graduate Leadership Program Technical Assessment 
 -- SQL Assessment
--- Name: Emily Wang '''
+-- Name: Emily Wang 
 
 -- Please provide a SQL statement for each question
 
